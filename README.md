@@ -6,7 +6,8 @@ For this project, you will submit your optimized and debugged implementations fo
 
 ## Introduction
 
-## Activity 1: Hands-On Microsoft Copilot Code Generation - Activity
+## Activity 1: Activity: Hands-On Microsoft Copilot Code Generation
+
 ## Activity 2: Applying Microsoft Copilot Generated Algorithms in Real-World Contexts
 ## Activity 3: Performance Analysis and Refinement
 ## Activity 4: Optimizing Data Structures With the LLM
