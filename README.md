@@ -18,6 +18,10 @@ To assist in this optimization, you will use an LLM to suggest improvements, ens
 <img width="1837" height="1208" alt="Untitledddd" src="https://github.com/user-attachments/assets/297e4a11-bcba-4e26-8e94-b18d8331c297" />
 
 ## Activity 2: Applying Microsoft Copilot Generated Algorithms in Real-World Contexts
+
+<img width="1852" height="1220" alt="Screenshot 2025-12-30 112231" src="https://github.com/user-attachments/assets/51e7ac28-8889-458b-a63f-6ac761f638fa" />
+<img width="1848" height="1226" alt="Screenshot 2025-12-30 112403" src="https://github.com/user-attachments/assets/a368c792-c3e8-4a26-979a-452bcb407662" />
+
 ## Activity 3: Performance Analysis and Refinement
 ## Activity 4: Optimizing Data Structures With the LLM
 
