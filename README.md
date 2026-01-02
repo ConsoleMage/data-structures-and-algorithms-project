@@ -44,6 +44,6 @@ To assist in this optimization, you will use an LLM to suggest improvements, ens
 
 (5 pts) Did you measure and document performance improvements for each task?
 
-> Yes. The relevant documentation includes screenshots of the code, and the prompts to the LLM to generate the final optimized code. You can view them here https://github.com/ConsoleMage/swiftcollab-system
+> Yes. The relevant documentation includes screenshots of the code, and the prompts to the LLM to generate the final optimized code. You can view them here https://github.com/ConsoleMage/swiftcollab-system.
 
 (5 pts) Did you clearly explain how the LLM contributed to your improvements?
