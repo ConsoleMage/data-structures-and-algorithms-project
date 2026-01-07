@@ -12,7 +12,7 @@ The engineering team has identified that the binary tree data structure used for
 
 To assist in this optimization, you will use an LLM to suggest improvements, ensuring the code is efficient, scalable, and meets performance expectations.
 
-## Activity 1: Activity: Hands-On Microsoft Copilot Code Generation
+## Activity 1: Hands-On Microsoft Copilot Code Generation
 
 <img width="1837" height="1208" alt="Untitled" src="https://github.com/user-attachments/assets/7f7fd1a7-16c2-4441-a934-6cc73e19e0b6" />
 <img width="1837" height="1208" alt="Untitledddd" src="https://github.com/user-attachments/assets/297e4a11-bcba-4e26-8e94-b18d8331c297" />
