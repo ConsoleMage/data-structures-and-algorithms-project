@@ -41,6 +41,9 @@ To assist in this optimization, you will use an LLM to suggest improvements, ens
 
 ## Activity 4: Optimizing Data Structures With the LLM
 
+<img width="1837" height="1208" alt="Untitled" src="https://github.com/user-attachments/assets/ed60170a-715d-4b80-9bce-380e9fd01976" />
+<img width="1837" height="1208" alt="Untitleddd" src="https://github.com/user-attachments/assets/b7c964e5-c830-4e2f-b676-abd33efea663" />
+
 (5 pts) Did you submit debugged and optimized task execution code?
 
 > Yes. To assist in this optimization, I used an LLM to suggest improvements, ensuring the code is efficient, scalable, and meets performance expectations.
